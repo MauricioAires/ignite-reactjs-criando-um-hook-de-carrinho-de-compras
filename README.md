@@ -5,7 +5,7 @@ Criando um hook de carrinho de compras
 </h1>
 
 <h2>
-  Sobre 🚀
+  Sobre
 </h2>
 
 <p>
